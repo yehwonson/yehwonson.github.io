@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "yeah01_sohn"
+title                    : "yeah_01sohn"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Catherine Yehwon Son"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Catherine Yehwon Son"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "20510"
+  bio              : "상당한 블로그"
   location         : "대한민국, 경기"
   email            : "21-20510@hafs.hs.kr"
   links:
